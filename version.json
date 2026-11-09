@@ -1,1 +1,1 @@
-{"versionCode": 37, "versionName": "0.1.37", "notes": "Downloads: download movies and episodes to your USB drive"}
+{"versionCode": 38, "versionName": "0.1.38", "notes": "Downloads retry when the provider is busy; faster startup; better Up/Down focus"}
