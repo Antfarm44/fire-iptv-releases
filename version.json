@@ -1,1 +1,1 @@
-{"versionCode": 46, "versionName": "0.1.46", "notes": "Frees the provider connection instantly after downloads and movies (live handoff)"}
+{"versionCode": 47, "versionName": "0.1.47", "notes": "Real live handoff before the other TV downloads; more reliable installer"}
