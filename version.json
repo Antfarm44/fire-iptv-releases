@@ -1,1 +1,1 @@
-{"versionCode": 38, "versionName": "0.1.38", "notes": "Downloads retry when the provider is busy; faster startup; better Up/Down focus"}
+{"versionCode": 40, "versionName": "0.1.40", "notes": "New Live TV layout; downloads wait for the provider connection; focus fixes"}
