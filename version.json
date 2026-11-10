@@ -1,1 +1,1 @@
-{"versionCode": 42, "versionName": "0.1.42", "notes": "Frees the provider connection right after downloads and playback; download options in long-press menus"}
+{"versionCode": 43, "versionName": "0.1.43", "notes": "Downloads start right away; cancelling frees the connection; Search one category at a time"}
