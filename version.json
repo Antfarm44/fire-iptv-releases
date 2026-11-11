@@ -1,1 +1,1 @@
-{"versionCode": 67, "versionName": "0.1.67", "notes": "Intro marking keeps the intro's opening even if you skip ahead before marking the end. Re-mark The Office."}
+{"versionCode": 68, "versionName": "0.1.68", "notes": "Fixes intro marking failing with 'couldn't capture enough sound'."}
