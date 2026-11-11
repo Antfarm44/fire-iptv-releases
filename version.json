@@ -1,1 +1,1 @@
-{"versionCode": 62, "versionName": "0.1.62", "notes": "Skip Intro shows once per episode (again only if you rewind into the intro). Fewer false matches."}
+{"versionCode": 63, "versionName": "0.1.63", "notes": "Skip Intro recognition restored. Intro checks logged every 10 s in the first 3 minutes."}
