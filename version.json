@@ -1,1 +1,1 @@
-{"versionCode": 61, "versionName": "0.1.61", "notes": "Skip Intro now recognizes intros by the shape of their sound (re-mark your intros). Fresh connections after the TV was off, with a VPN reconnect notice if the provider can't be reached."}
+{"versionCode": 62, "versionName": "0.1.62", "notes": "Skip Intro shows once per episode (again only if you rewind into the intro). Fewer false matches."}
