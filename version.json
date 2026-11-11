@@ -1,1 +1,1 @@
-{"versionCode": 60, "versionName": "0.1.60", "notes": "Exact skipping with picture and sound in sync; intro marks start exactly where you mark"}
+{"versionCode": 61, "versionName": "0.1.61", "notes": "Skip Intro now recognizes intros by the shape of their sound (re-mark your intros). Fresh connections after the TV was off, with a VPN reconnect notice if the provider can't be reached."}
