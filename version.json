@@ -1,1 +1,1 @@
-{"versionCode": 79, "versionName": "0.1.79", "notes": "VPN button works with any VPN app (picked automatically, or choose under Settings \u2192 Account \u2192 VPN App). Guide keeps its listings when the provider can't be reached.", "title": "Any VPN App"}
+{"versionCode": 82, "versionName": "0.1.82", "notes": "Multiple connections: TVs share the provider's connections and only ask to stop another TV when all are in use. Update both TVs.", "title": "Multiple Connections"}
