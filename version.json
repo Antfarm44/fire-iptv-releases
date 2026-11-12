@@ -1,1 +1,1 @@
-{"versionCode": 73, "versionName": "0.1.73", "notes": "Guide: channels missing from the provider's full guide file are also checked one by one."}
+{"versionCode": 74, "versionName": "0.1.74", "notes": "Event Log is much quieter, and Send To Claude sends it straight to Claude."}
