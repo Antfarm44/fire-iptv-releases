@@ -1,1 +1,1 @@
-{"versionCode": 68, "versionName": "0.1.68", "notes": "Fixes intro marking failing with 'couldn't capture enough sound'."}
+{"versionCode": 69, "versionName": "0.1.69", "notes": "Mark Intro Start says right away when an episode's audio can't be decoded."}
