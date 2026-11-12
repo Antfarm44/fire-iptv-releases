@@ -1,1 +1,1 @@
-{"versionCode": 74, "versionName": "0.1.74", "notes": "Event Log is much quieter, and Send To Claude sends it straight to Claude."}
+{"versionCode": 75, "versionName": "0.1.75", "notes": "Send To Claude saves the log under your Sync account."}
