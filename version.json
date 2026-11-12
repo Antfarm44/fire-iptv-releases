@@ -1,1 +1,1 @@
-{"versionCode": 77, "versionName": "0.1.77", "notes": "Names as the provider sends them, Upload For Troubleshooting, suggested guide sources, better guide matching, download list fix.", "title": "Guide & Log Upgrades"}
+{"versionCode": 78, "versionName": "0.1.78", "notes": "Better guide matching; keeps listings when the provider's guide file is temporarily empty.", "title": "Guide Matching"}
