@@ -1,1 +1,1 @@
-{"versionCode": 78, "versionName": "0.1.78", "notes": "Better guide matching; keeps listings when the provider's guide file is temporarily empty.", "title": "Guide Matching"}
+{"versionCode": 79, "versionName": "0.1.79", "notes": "VPN button works with any VPN app (picked automatically, or choose under Settings \u2192 Account \u2192 VPN App). Guide keeps its listings when the provider can't be reached.", "title": "Any VPN App"}
