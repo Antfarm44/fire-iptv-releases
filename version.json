@@ -1,1 +1,1 @@
-{"versionCode": 83, "versionName": "0.1.83", "notes": "Taking over now waits for the other TV to free its connection (fixes HTTP 458 after takeover). Settings \u2192 Account shows what each TV is doing, and has Restart App. Update both TVs.", "title": "Takeover Fix"}
+{"versionCode": 85, "versionName": "0.1.85", "notes": "After a takeover or a 'connection in use' refusal, the app waits until the provider shows a free connection, then plays. Account status stays visible when scrolling back up.", "title": "Connection Wait"}
