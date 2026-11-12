@@ -1,1 +1,1 @@
-{"versionCode": 82, "versionName": "0.1.82", "notes": "Multiple connections: TVs share the provider's connections and only ask to stop another TV when all are in use. Update both TVs.", "title": "Multiple Connections"}
+{"versionCode": 83, "versionName": "0.1.83", "notes": "Taking over now waits for the other TV to free its connection (fixes HTTP 458 after takeover). Settings \u2192 Account shows what each TV is doing, and has Restart App. Update both TVs.", "title": "Takeover Fix"}
