@@ -1,1 +1,1 @@
-{"versionCode": 94, "versionName": "0.1.94", "notes": "Pause works on the USB buffer again for every channel. Temporary Test Catch-Up option on catch-up channels (long-press).", "title": "Pause Restored"}
+{"versionCode": 95, "versionName": "0.1.95", "notes": "Catch-up test now tries two formats and waits longer.", "title": "Catch-Up Test"}
