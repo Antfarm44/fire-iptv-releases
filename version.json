@@ -1,1 +1,1 @@
-{"versionCode": 93, "versionName": "0.1.93", "notes": "Channels with catch-up pause on the provider's own recording, with nothing saved to the USB drive, and show a Catch-Up tag.", "title": "Catch-Up Pause"}
+{"versionCode": 94, "versionName": "0.1.94", "notes": "Pause works on the USB buffer again for every channel. Temporary Test Catch-Up option on catch-up channels (long-press).", "title": "Pause Restored"}
