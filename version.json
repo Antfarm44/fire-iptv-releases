@@ -1,1 +1,1 @@
-{"versionCode": 85, "versionName": "0.1.85", "notes": "After a takeover or a 'connection in use' refusal, the app waits until the provider shows a free connection, then plays. Account status stays visible when scrolling back up.", "title": "Connection Wait"}
+{"versionCode": 86, "versionName": "0.1.86", "notes": "Account page: connection status stays fixed at the top.", "title": "Account Page"}
