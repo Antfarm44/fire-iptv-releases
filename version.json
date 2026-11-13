@@ -1,1 +1,1 @@
-{"versionCode": 92, "versionName": "0.1.92", "notes": "Plain M3U playlists work (live TV and movies by group). The log now shows which channels have catch-up.", "title": "M3U Playlists"}
+{"versionCode": 93, "versionName": "0.1.93", "notes": "Channels with catch-up pause on the provider's own recording, with nothing saved to the USB drive, and show a Catch-Up tag.", "title": "Catch-Up Pause"}
