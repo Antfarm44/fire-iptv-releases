@@ -1,1 +1,1 @@
-{"versionCode": 89, "versionName": "0.1.89", "notes": "Guided start for new installs: VPN, provider login (Xtream or M3U link), groups, guide, Sync with Create Account and Forgot Password. Your TVs skip it.", "title": "Guided Start"}
+{"versionCode": 92, "versionName": "0.1.92", "notes": "Plain M3U playlists work (live TV and movies by group). The log now shows which channels have catch-up.", "title": "M3U Playlists"}
