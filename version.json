@@ -1,1 +1,1 @@
-{"versionCode": 98, "versionName": "0.1.98", "notes": "Catch-up channels: rewind anywhere in the provider's recording (a day on most channels) with clock times on the watch bar.", "title": "Catch-Up Rewind"}
+{"versionCode": 99, "versionName": "0.1.99", "notes": "Smoother catch-up: fewer pauses between pieces, and far-back jumps aren't restarted too early.", "title": "Smoother Catch-Up"}
