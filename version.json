@@ -1,1 +1,1 @@
-{"versionCode": 112, "versionName": "2.0.112", "notes": "In the player, pressing Up from the buttons above the bar hides the bar, even while paused. Any button brings it back.", "title": "Hide the Player Bar"}
+{"versionCode": 113, "versionName": "2.0.113", "notes": "Nothing cut off at the top of Home. Movie and series pages: progress first, then Resume and Start Over, with My List and the rest on the line below.", "title": "Tidier Title Pages"}
