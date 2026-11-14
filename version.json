@@ -1,1 +1,1 @@
-{"versionCode": 113, "versionName": "2.0.113", "notes": "Nothing cut off at the top of Home. Movie and series pages: progress first, then Resume and Start Over, with My List and the rest on the line below.", "title": "Tidier Title Pages"}
+{"versionCode": 118, "versionName": "2.0.118", "notes": "Smoother: the app now ships a pre-compile profile, so screens run at full speed from the first use after each update. The Event Log now records how smoothly each screen draws. Banner art fades in; posters show their name while loading.", "title": "Smoother Menus"}
