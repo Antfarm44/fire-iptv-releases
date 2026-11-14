@@ -1,1 +1,1 @@
-{"versionCode": 111, "versionName": "2.0.111", "notes": "One highlight style everywhere. Update prompt shows the version again. Player buttons sit above the bar (press Up). Episode progress bars are back. Channels only count as recently watched when opened full screen, and Back returns to that channel in the guide.", "title": "One Highlight Style"}
+{"versionCode": 112, "versionName": "2.0.112", "notes": "In the player, pressing Up from the buttons above the bar hides the bar, even while paused. Any button brings it back.", "title": "Hide the Player Bar"}
