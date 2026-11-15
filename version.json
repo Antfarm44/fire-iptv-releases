@@ -1,1 +1,1 @@
-{"versionCode": 123, "versionName": "2.0.123", "notes": "Movies and series now refresh automatically once a week instead of daily. The channel list still refreshes every 6 hours.", "title": "Weekly Library Refresh"}
+{"versionCode": 124, "versionName": "2.0.124", "notes": "The VPN only shows as connected (green) once traffic actually gets through it. If your VPN app is on but not passing traffic yet, the app says so (amber) and waits instead of loading.", "title": "Accurate VPN Status"}
