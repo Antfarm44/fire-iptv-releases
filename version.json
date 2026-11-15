@@ -1,1 +1,1 @@
-{"versionCode": 122, "versionName": "2.0.122", "notes": "Movie lengths now read correctly as hours and minutes (1 hr 32 min). Resolution (4K, 1080p, 720p) shows next to the rating when the provider includes it. Plus: the highlight stays in place after removing a title, and long-press works on Search.", "title": "Correct Movie Lengths"}
+{"versionCode": 123, "versionName": "2.0.123", "notes": "Movies and series now refresh automatically once a week instead of daily. The channel list still refreshes every 6 hours.", "title": "Weekly Library Refresh"}
