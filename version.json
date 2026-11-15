@@ -1,1 +1,1 @@
-{"versionCode": 131, "versionName": "2.0.131", "notes": "Optimized build: the app's own code is now streamlined by the build optimizer like other release apps, for a smaller, quicker app. Everything else is unchanged.", "title": "Optimized Build"}
+{"versionCode": 132, "versionName": "2.0.132", "notes": "New intro animation when the app opens. The USB drive summary stays at the top of Settings \u2192 Storage. The weekly movies and series update now shows a notice when it starts and when it's done.", "title": "Intro Animation"}
