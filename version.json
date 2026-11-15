@@ -1,1 +1,1 @@
-{"versionCode": 119, "versionName": "2.0.119", "notes": "Movies and Series: moving down scrolls the row you're on to the top, so its titles always show. Quieter Event Log, plus a note of why Android closed the app if it happens again.", "title": "Titles Stay Visible"}
+{"versionCode": 121, "versionName": "2.0.121", "notes": "After a long-press option removes a title (like Remove from My List), the highlight moves to the title next to it instead of the top bar. Long-press now works on Search results.", "title": "Highlight Stays Put"}
