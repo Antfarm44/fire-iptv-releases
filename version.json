@@ -1,1 +1,1 @@
-{"versionCode": 130, "versionName": "2.0.130", "notes": "USB drive folders are now readable: Movies/<Title>, Series/<Show>/Season NN, plus Poster Cache and Live Pause Buffer. Existing downloads move over automatically. Cleaner Settings \u2192 Storage page with a summary of what's using each drive.", "title": "Readable USB Folders"}
+{"versionCode": 131, "versionName": "2.0.131", "notes": "Optimized build: the app's own code is now streamlined by the build optimizer like other release apps, for a smaller, quicker app. Everything else is unchanged.", "title": "Optimized Build"}
