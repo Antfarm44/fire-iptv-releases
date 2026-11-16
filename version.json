@@ -1,1 +1,1 @@
-{"versionCode": 134, "versionName": "2.0.134", "notes": "The library and TV guide now load at the same time when the app opens, so Home appears sooner.", "title": "Quicker Startup"}
+{"versionCode": 136, "versionName": "2.0.136", "notes": "Home opens as soon as your library is ready; the TV guide fills in a moment later.\nStorage settings (poster cache, USB cache and Live Pause size) now stay on each TV instead of syncing, since not every TV has a USB drive.", "title": "Faster Home, Per-TV Storage"}
