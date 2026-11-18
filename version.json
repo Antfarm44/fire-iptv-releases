@@ -1,1 +1,1 @@
-{"versionCode": 141, "versionName": "2.0.141", "notes": "Movie and show pages: the buttons now sit in two rows of exactly the same width, sharing each row equally. Playlists moved up next to Play/Resume. On shows, the episode you're on is shown above the progress bar.", "title": "Even Button Rows"}
+{"versionCode": 144, "versionName": "2.0.144", "notes": "Show pages: moving into the episode list widens it across the page so full episode names fit; the details slide back when you press Left to the buttons.", "title": "Wider Episode List"}
