@@ -1,1 +1,1 @@
-{"versionCode": 144, "versionName": "2.0.144", "notes": "Show pages: moving into the episode list widens it across the page so full episode names fit; the details slide back when you press Left to the buttons.", "title": "Wider Episode List"}
+{"versionCode": 146, "versionName": "2.0.146", "notes": "Smoother right after opening: the TV guide update now waits a few minutes and runs at low priority, and the app's speed profile is refreshed for all the recent changes.", "title": "Smoother Startup"}
